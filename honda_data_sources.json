@@ -1,0 +1,66 @@
+[
+  {
+    "source": "Social Media (reddit, X, Facebook)",
+    "category": "Social listening",
+    "details": "General feed mentioning cars, brand names, and feature discussions across Reddit, X (Twitter), and Facebook.",
+    "customer_insights": "Captures what people are talking about across features, categories, brands, and specific models.",
+    "technical_feasibility": "",
+    "remark": "Focus on trend spotting; \"X\" placeholders in the brief refer to any feature, category, brand, or model."
+  },
+  {
+    "source": "Facebook Groups",
+    "category": "Community discussions",
+    "details": "https://www.facebook.com/Carindia/; https://www.facebook.com/groups/indianroadie/; https://www.facebook.com/groups/hondaamazeindia/; https://www.facebook.com/groups/hondacityindia/; https://www.facebook.com/groups/hondaelevate/",
+    "customer_insights": "Surfacing what is in demand, what owners value, and drivers behind purchase decisions.",
+    "technical_feasibility": "",
+    "remark": "Useful for gauging traction of specific Honda models and adjacent competitors."
+  },
+  {
+    "source": "Reddit Groups",
+    "category": "Community discussions",
+    "details": "https://www.reddit.com/r/CarsIndia/; https://www.reddit.com/r/HondaCarsIndia/",
+    "customer_insights": "Owner feedback, critiques, and comparisons shared by enthusiasts.",
+    "technical_feasibility": "",
+    "remark": ""
+  },
+  {
+    "source": "Auto Experts YouTube Page",
+    "category": "Expert reviews",
+    "details": "https://www.youtube.com/@SunderdeepSingh; https://www.youtube.com/@TalkingCars",
+    "customer_insights": "Highlights gaps in value proposition, marketing angles, and differentiators across brands.",
+    "technical_feasibility": "",
+    "remark": "Great for summarising expert takeaways on hot features."
+  },
+  {
+    "source": "EV Apps App Store/Play Store Reviews",
+    "category": "App reviews",
+    "details": "E-Hub; Tata Power EZ Charge; Statiq; Jio-BP Pulse; ChargeMOD",
+    "customer_insights": "Reveals charging, usability, and ownership challenges faced by EV users.",
+    "technical_feasibility": "",
+    "remark": ""
+  },
+  {
+    "source": "CarDekho / CarWale / ZigWheels",
+    "category": "Aggregators",
+    "details": "https://www.cardekho.com/car-reviews.htm; https://www.carwale.com/reviews/; https://www.zigwheels.com/reviews",
+    "customer_insights": "Combines industry news with user and expert reviews for feature benchmarking.",
+    "technical_feasibility": "",
+    "remark": ""
+  },
+  {
+    "source": "Online Forums",
+    "category": "Community discussions",
+    "details": "https://www.team-bhp.com/; https://www.theautomotiveindia.com/; https://www.autocarindia.com/",
+    "customer_insights": "Identifies features people like or dislike and recurring ownership pain points.",
+    "technical_feasibility": "",
+    "remark": ""
+  },
+  {
+    "source": "Government Annual Sales Report",
+    "category": "Official data",
+    "details": "https://fada.in/images/press-release/167f3463b1a212FADA%20Releases%20FY%202025%20and%20March%202025%20Vehicle%20Retail%20Data.pdf",
+    "customer_insights": "Tracks sales, production, and compliance trends across vehicle categories.",
+    "technical_feasibility": "",
+    "remark": ""
+  }
+]
