@@ -41,8 +41,8 @@ PREDEFINED_QUESTIONS = [
     "What charging challenges appear across Indian EV apps?",
     "Which forums surface repeated complaints about Honda sedans?",
     "Are people generally dissatisfied with Honda’s suspension?",
-    "Are hybrid cars really popular among Indian consumers. Does it make sense for HONDA to launch elevate hybrid model",
-    "Does honda brand position in india align resonate with the consmers"
+    "Are hybrid cars really popular among Indian consumers? Does it make sense for Honda to launch an Elevate hybrid model?",
+    "Does Honda's brand position in India resonate with consumers?"
 ]
 MAX_INTERNAL_CONTEXT_ROWS = 4
 
