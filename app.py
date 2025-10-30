@@ -39,7 +39,10 @@ PREDEFINED_QUESTIONS = [
     "How does Honda’s brand sentiment compare to Hyundai?",
     "Which sources highlight gaps in Honda’s value proposition?",
     "What charging challenges appear across Indian EV apps?",
-    "Which forums surface repeated complaints about Honda sedans?"
+    "Which forums surface repeated complaints about Honda sedans?",
+    "Are people generally dissatisfied with Honda’s suspension?",
+    "Are hybrid cars really popular among Indian consumers. Does it make sense for HONDA to launch elevate hybrid model",
+    "Does honda brand position in india align resonate with the consmers"
 ]
 MAX_INTERNAL_CONTEXT_ROWS = 4
 
@@ -594,9 +597,13 @@ def main() -> None:
                     background-color: #ffffff;
                     color: #cc0000;
                     width: 100%;
+                    min-height: 110px;
                     height: 100%;
-                    display: block;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
                     text-align: center;
+                    white-space: normal;
                 }
                 .pill-button button:hover {
                     background-color: #f5f5f5;
